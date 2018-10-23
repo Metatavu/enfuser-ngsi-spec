@@ -1,0 +1,6 @@
+jaxrs-spec-generated/target/
+jaxrs-spec-generated/pom.xml.before
+node_modules
+swagger-codegen-cli.jar
+.swagger-codegen
+.swagger-codegen-ignore
