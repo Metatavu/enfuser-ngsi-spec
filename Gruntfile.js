@@ -19,7 +19,8 @@ module.exports = function(grunt) {
     },
     "clean": {
       "jaxrs-spec-cruft": [
-        "jaxrs-spec-generated/src/main/java/fi/metatavu/netcdf/ngsi/api/RestApplication.java"
+        "jaxrs-spec-generated/src/main/java/fi/metatavu/netcdf/ngsi/api/RestApplication.java",
+        "jaxrs-spec-generated/.settings"
       ],
       "jaxrs-spec-sources": ["jaxrs-spec-generated/src"]
     },
