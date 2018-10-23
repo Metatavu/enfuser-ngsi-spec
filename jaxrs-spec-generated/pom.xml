@@ -4,7 +4,7 @@
   <artifactId>enfuser-ngsi-api-spec</artifactId>
   <packaging>jar</packaging>
   <name>enfuser-ngsi-api-spec</name>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <url>https://github.com/Metatavu/enfuser-ngsi-spec</url>
 
   <licenses>
@@ -32,7 +32,7 @@
     <developerConnection>scm:git:git@github.com:Metatavu/enfuser-ngsi-spec.git</developerConnection>
     <url>git@github.com:Metatavu/enfuser-ngsi-spec.git</url>
     <connection>scm:git:git@github.com:Metatavu/enfuser-ngsi-spec.git</connection>
-    <tag>HEAD</tag>
+    <tag>0.0.1</tag>
   </scm>
 
   <organization>
