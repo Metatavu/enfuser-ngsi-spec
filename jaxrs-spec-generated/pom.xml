@@ -4,6 +4,7 @@
   <artifactId>enfuser-ngsi-api-spec</artifactId>
   <packaging>jar</packaging>
   <name>enfuser-ngsi-api-spec</name>
+  <description>Server specification for ENFUSER NetCDF NGSI interface</description>
   <version>0.0.2-SNAPSHOT</version>
   <url>https://github.com/Metatavu/enfuser-ngsi-spec</url>
 

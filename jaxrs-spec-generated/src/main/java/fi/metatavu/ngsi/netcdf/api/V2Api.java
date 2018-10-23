@@ -42,7 +42,7 @@ import java.lang.Exception;
 @Api(description = "the v2 API")
 @Consumes({ "application/json" })
 @Produces({ "application/json" })
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaJAXRSSpecServerCodegen", date = "2018-10-23T09:59:38.392+03:00")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaJAXRSSpecServerCodegen", date = "2018-10-23T10:05:18.097+03:00")
 
 
 public interface V2Api  {
